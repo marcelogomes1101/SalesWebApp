@@ -82,7 +82,5 @@ namespace SalesWebMvc.Data
                 _context.SaveChanges();
             }
         }
-
     }
-
 }
